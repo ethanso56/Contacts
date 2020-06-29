@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <contacts>
 <contact>
-	<first_name>Tim</first_name>
-	<last_name>Buchalka</last_name>
+	<first_name>Ethan</first_name>
+	<last_name>So</last_name>
 	<phone_number>1234</phone_number>
 	<notes>my notes</notes>
 </contact>
 <contact>
 	<first_name>Louise</first_name>
-	<last_name>Richter</last_name>
+	<last_name>Tan</last_name>
 	<phone_number>1290</phone_number>
 	<notes>Some notes</notes>
 </contact>
